@@ -1,0 +1,6 @@
+﻿  Method.cpp
+C:\Users\arderian\source\MethodG\MethodG\Method.cpp(12,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arderian\source\MethodG\MethodG\Method.cpp(12,20): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\arderian\source\MethodG\MethodG\Method.cpp(29,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arderian\source\MethodG\MethodG\Method.cpp(29,20): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  MethodG.vcxproj -> C:\Users\arderian\source\MethodG\x64\Debug\MethodG.exe
