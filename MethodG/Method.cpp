@@ -76,7 +76,7 @@ int main() {
 
     if (size <= 0) {
         cout << "Error: Invalid system size. Exiting." << endl;
-        return 1; // Чтобы выйти из программы с кодом ошибки
+        return 1; 
     }
 
     cout << "Enter size coefficient matrix:" << endl;
